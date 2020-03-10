@@ -1,0 +1,22 @@
+.mainPoster {
+  height: 600px;
+  width: 360px;
+}
+
+.qrImg {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0px;
+}
+
+.infoCard {
+  background: linear-gradient(
+    to right,
+    rgba(7, 27, 82, 1) 0%,
+    rgba(0, 128, 128, 1) 100%
+  );
+  color: aqua;
+}

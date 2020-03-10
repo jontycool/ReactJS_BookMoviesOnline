@@ -1,0 +1,9 @@
+img {
+  height: 300px;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.card {
+  font-family: monospace;
+}
