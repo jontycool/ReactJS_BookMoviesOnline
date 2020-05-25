@@ -8,7 +8,7 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
 const routing = (
-  <Router basename={window.location.pathname || ''}>
+  <Router basename='/ReactJS_BookMoviesOnline'>
     <div>
       <Route exact path='/' component={App} />
       <Route path='/booking' component={Booking} />
