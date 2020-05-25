@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ReactJS_BookMoviesOnline/static/css/main.54e1b581.chunk.css",
-    "main.js": "/ReactJS_BookMoviesOnline/static/js/main.2116c432.chunk.js",
-    "main.js.map": "/ReactJS_BookMoviesOnline/static/js/main.2116c432.chunk.js.map",
-    "runtime-main.js": "/ReactJS_BookMoviesOnline/static/js/runtime-main.1b6d570b.js",
-    "runtime-main.js.map": "/ReactJS_BookMoviesOnline/static/js/runtime-main.1b6d570b.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/ReactJS_BookMoviesOnline/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.c0626e0b.chunk.js": "/ReactJS_BookMoviesOnline/static/js/2.c0626e0b.chunk.js",
-    "static/js/2.c0626e0b.chunk.js.map": "/ReactJS_BookMoviesOnline/static/js/2.c0626e0b.chunk.js.map",
+    "main.css": "/ReactJS_BookMoviesOnline/static/css/main.552d2ecc.chunk.css",
+    "main.js": "/ReactJS_BookMoviesOnline/static/js/main.ea0c96e8.chunk.js",
+    "main.js.map": "/ReactJS_BookMoviesOnline/static/js/main.ea0c96e8.chunk.js.map",
+    "runtime-main.js": "/ReactJS_BookMoviesOnline/static/js/runtime-main.ded2a610.js",
+    "runtime-main.js.map": "/ReactJS_BookMoviesOnline/static/js/runtime-main.ded2a610.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ReactJS_BookMoviesOnline/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.54a0e427.chunk.js": "/ReactJS_BookMoviesOnline/static/js/2.54a0e427.chunk.js",
+    "static/js/2.54a0e427.chunk.js.map": "/ReactJS_BookMoviesOnline/static/js/2.54a0e427.chunk.js.map",
     "index.html": "/ReactJS_BookMoviesOnline/index.html",
-    "precache-manifest.a9d418bb1577d87040860a5fc9ff7bf4.js": "/ReactJS_BookMoviesOnline/precache-manifest.a9d418bb1577d87040860a5fc9ff7bf4.js",
+    "precache-manifest.70eb36b3a78f097fe6bc4fab54053a08.js": "/ReactJS_BookMoviesOnline/precache-manifest.70eb36b3a78f097fe6bc4fab54053a08.js",
     "service-worker.js": "/ReactJS_BookMoviesOnline/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/ReactJS_BookMoviesOnline/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.54e1b581.chunk.css.map": "/ReactJS_BookMoviesOnline/static/css/main.54e1b581.chunk.css.map",
+    "static/css/2.3c03f26f.chunk.css.map": "/ReactJS_BookMoviesOnline/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.552d2ecc.chunk.css.map": "/ReactJS_BookMoviesOnline/static/css/main.552d2ecc.chunk.css.map",
     "static/media/App.css": "/ReactJS_BookMoviesOnline/static/media/SEGA.12a3db8b.woff"
   }
 }

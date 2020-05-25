@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactJS_BookMoviesOnline/precache-manifest.a9d418bb1577d87040860a5fc9ff7bf4.js"
+  "/ReactJS_BookMoviesOnline/precache-manifest.70eb36b3a78f097fe6bc4fab54053a08.js"
 );
 
 self.addEventListener('message', (event) => {
