@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b38d2b1928e754f051f653132c47ac6",
+    "revision": "10b3b5c979d070cdf172e7c32307fa47",
     "url": "/ReactJS_BookMoviesOnline/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS_BookMoviesOnline/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "4b4bcb538658204043c4",
+    "revision": "b0aa4222c2e7273af9ca",
     "url": "/ReactJS_BookMoviesOnline/static/css/main.552d2ecc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS_BookMoviesOnline/static/js/2.54a0e427.chunk.js"
   },
   {
-    "revision": "4b4bcb538658204043c4",
-    "url": "/ReactJS_BookMoviesOnline/static/js/main.ea0c96e8.chunk.js"
+    "revision": "b0aa4222c2e7273af9ca",
+    "url": "/ReactJS_BookMoviesOnline/static/js/main.eb9d9a8e.chunk.js"
   },
   {
     "revision": "350519d3947e7bedcd62",
