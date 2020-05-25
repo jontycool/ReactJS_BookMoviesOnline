@@ -8,10 +8,10 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
 const routing = (
-  <Router>
+  <Router basename={window.location.pathname || ''}>
     <div>
-      <Route exact path="/" component={App} />
-      <Route path="/booking" component={Booking} />
+      <Route exact path='/' component={App} />
+      <Route path='/booking' component={Booking} />
     </div>
   </Router>
 );
